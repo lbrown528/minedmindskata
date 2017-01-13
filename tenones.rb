@@ -5,3 +5,7 @@
 end
 
 1.upto(100) { |x| puts x }
+
+for x in 1...100 do
+	puts x+=1
+end
