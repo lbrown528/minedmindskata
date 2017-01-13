@@ -3,3 +3,5 @@
 	blueberrypie += 1
 	puts blueberrypie
 end
+
+1.upto(100) { |x| puts x }
